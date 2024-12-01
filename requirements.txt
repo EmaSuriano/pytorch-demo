@@ -1,0 +1,6 @@
+gymnasium[classic_control]
+gymnasium[atari]
+matplotlib
+opencv-python
+imageio[ffmpeg]
+ale-py
